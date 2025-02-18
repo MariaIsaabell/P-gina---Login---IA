@@ -1,11 +1,11 @@
-/* Reset básico */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Estilo do corpo da página */
+
 body {
     background-color: #1b1c30;
     font-family: Arial, sans-serif;
@@ -16,7 +16,7 @@ body {
     color: #fff;
 }
 
-/* Container do login */
+
 .login-container {
     background-color: #2a2b3d;
     padding: 2rem;
@@ -27,14 +27,14 @@ body {
     text-align: center;
 }
 
-/* Título "Login" */
+
 .login-container h1 {
     margin-bottom: 1.5rem;
     font-size: 2rem;
     color: #fff;
 }
 
-/* Grupos de entrada (e-mail e senha) */
+
 .input-group {
     margin-bottom: 1.5rem;
     text-align: left;
@@ -64,7 +64,7 @@ body {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
-/* Botão "Entrar" */
+
 .btn-entrar {
     width: 100%;
     padding: 0.75rem;
@@ -81,7 +81,7 @@ body {
     background-color: #45a049; 
 }
 
-/* Link "Criar uma conta" */
+
 .criar-conta {
     display: block;
     margin-top: 1rem;
